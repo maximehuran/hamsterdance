@@ -1,0 +1,54 @@
+UNKNOWN {
+	FONT-WEIGHT: bold; COLOR: #006699; FONT-FAMILY: helvetica; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-WEIGHT: bold; COLOR: #ffff00; FONT-FAMILY: helvetica; TEXT-DECORATION: underline
+}
+A:hover {
+	FONT-WEIGHT: bold; COLOR: red; FONT-FAMILY: helvetica; TEXT-DECORATION: underline
+}
+BODY BODY {
+	FONT-WEIGHT: bold; BACKGROUND-IMAGE: url(gris.jpg); COLOR: blue; FONT-FAMILY: Helvetica; TEXT-DECORATION: none
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: red; FONT-FAMILY: helvetica
+}
+.text {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; FONT-FAMILY: helvetica
+}
+.h1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 30px; COLOR: #0000ff; FONT-FAMILY: helvetica
+}
+.h2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 24px; COLOR: #0000ff; FONT-FAMILY: helvetica
+}
+.T3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #0000ff; FONT-FAMILY: helvetica
+}
+.h4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 20px; COLOR: black; FONT-FAMILY: helvetica
+}
+.T5 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #0000ff; FONT-FAMILY: helvetica
+}
+.T6 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #0000ff; FONT-FAMILY: helvetica
+}
+.rainbow {
+	BEHAVIOR: url(guirlande.htc)
+}
+.changer {
+	BACKGROUND: #525c88; COLOR: #ffffff
+}
+.changer2 {
+	BACKGROUND: orange; COLOR: black
+}
+FORM FORM.area {
+	BORDER-RIGHT: black 2px solid; BORDER-TOP: black 2px solid; FONT-SIZE: 10pt; BORDER-LEFT: black 2px solid; COLOR: white; BORDER-BOTTOM: black 2px solid; FONT-FAMILY: verdana, tahoma, arial; BACKGROUND-COLOR: black
+}
+INPUT.button {
+	BORDER-RIGHT: blue 1px solid; BORDER-TOP: blue 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 13px; BORDER-LEFT: blue 1px solid; CURSOR: hand; COLOR: black; BORDER-BOTTOM: blue 1px solid; FONT-FAMILY: verdana, tahoma, arial; BACKGROUND-COLOR: orange
+}
+SELECT.choice {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 8pt; BORDER-LEFT: #000000 1px solid; COLOR: #003300; BORDER-BOTTOM: #000000 1px solid; FONT-FAMILY: verdana, tahoma, arial; BACKGROUND-COLOR: red
+}
